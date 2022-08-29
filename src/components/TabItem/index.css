@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.tab-container {
+  margin-left: 20px;
+  margin-right: 20px;
+  list-style-type: none;
+}
+
+.tab-name {
+  color: #7b8794;
+  font-family: 'Bree Serif';
+  font-size: 25px;
+  cursor: pointer;
+  border: none;
+}
+
+.active-tab {
+  color: #2563eb;
+  text-decoration: underline;
+}

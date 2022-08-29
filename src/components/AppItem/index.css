@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.each-app-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+  width: 150px;
+  padding-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.app-image {
+  height: 80px;
+  width: 80px;
+}
+
+.app-name {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  font-weight: 600;
+}
